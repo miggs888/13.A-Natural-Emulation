@@ -5,7 +5,6 @@ var slider;
 var x;
 var y = 300;
 
-
 function setup() {
     createCanvas(windowWidth, (windowHeight - 200));
     angleMode(DEGREES);
