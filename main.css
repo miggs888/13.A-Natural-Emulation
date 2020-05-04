@@ -1,0 +1,11 @@
+
+h1 {
+    font-family: 'helvetica', 'sans-serif';
+    font-size: 250%;
+    padding: 10px;
+}
+p {
+  font-family: 'helvetica', 'sans-serif';
+  font-size: 80%;
+  text-align: center;
+}
